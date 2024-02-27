@@ -1,0 +1,8 @@
+com/go/BookRentalInventory/endpoint/BookInventoryController.class
+com/go/BookRentalInventory/repository/BookInventoryRepository.class
+com/go/BookRentalInventory/endpoint/dto/AuthorDto.class
+com/go/BookRentalInventory/service/BookInventoryServiceImpl.class
+com/go/BookRentalInventory/BookRentalInventoryApplication.class
+com/go/BookRentalInventory/service/BookInventoryService.class
+com/go/BookRentalInventory/repository/BookInventoryRepositoryImpl.class
+com/go/BookRentalInventory/endpoint/dto/BookDto.class

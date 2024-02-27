@@ -1,0 +1,8 @@
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/service/BookInventoryService.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/service/BookInventoryServiceImpl.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/repository/BookInventoryRepository.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/endpoint/dto/BookDto.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/endpoint/BookInventoryController.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/repository/BookInventoryRepositoryImpl.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/BookRentalInventoryApplication.java
+/Users/roman/Documents/Java/Backend/BookRentalInventory/src/main/java/com/go/BookRentalInventory/endpoint/dto/AuthorDto.java
